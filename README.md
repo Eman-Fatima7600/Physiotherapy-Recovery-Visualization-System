@@ -1,4 +1,3 @@
-3
 # Physiotherapy-Recovery-Visualization-System
 Python based data analysis project for physiotherapy patient recovery tracking.
 ### Features:
